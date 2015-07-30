@@ -1,3 +1,6 @@
-# JS_Gladiator
-A gladiator Simulator written in Javascript
-This app simulates a  Gladiator battle.
+# JS Gladiator
+This app simulates a Gladiator battle and is written in JavaScript.
+
+# Contributors
+Vincent Pagran
+Tyler Mace - tylerdmace@gmail.com
